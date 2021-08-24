@@ -1,0 +1,20 @@
+.league-item{
+    height: 380px;
+}
+
+.league-logo{
+    height: 150px;
+    width: 150px;
+}
+
+.league-title{
+    font-size: 1rem;
+}
+
+.bt-rad{
+    border-radius: 0;
+}
+
+.other-details{
+    font-size: 0.8rem !important;
+}
